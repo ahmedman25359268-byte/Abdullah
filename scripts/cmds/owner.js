@@ -19,9 +19,9 @@ module.exports = {
     const ownerText = 
 `╭─ 👑 Oᴡɴᴇʀ Iɴғᴏ 👑 ─╮
 │ 👤 Nᴀᴍᴇ       :
- 亗TOUHID ISLAM
+ 亗𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇 𝐖𝐀𝐑𝐈𝐒
 │🧸 Nɪᴄᴋ       :
-  TOUHID
+  Nahin
 │ 🎂 Aɢᴇ        :
  19+
 │ 💘 Rᴇʟᴀᴛɪᴏɴ :
@@ -29,10 +29,10 @@ module.exports = {
 │ 🎓 Pʀᴏғᴇssɪᴏɴ :
  Sᴛᴜᴅᴇɴᴛ 
 │ 🏡 Lᴏᴄᴀᴛɪᴏɴ :
- DINAJPUR   
+ coxbazar . mohesh Khali 
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
 │ 📞 WhatsApp  :
- wa.me/+8801973061007
+ wa.me/+8801897876272
 ╰────────────────╯`;
 
     const cacheDir = path.join(__dirname, "cache");
