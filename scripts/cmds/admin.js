@@ -153,7 +153,7 @@ module.exports = {
 
 				const ownerBox =
 `╭━━━〔 👑 OWNER 〕━━━╮
-│ Name : ×᷼𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇 𝐖𝐀𝐑𝐈𝐒☆
+│ Name : ×᷼Abdullah☆
 │ UID  : ${OWNER.join(", ")}
 ╰━━━━━━━━━━━━━━━━━━━━╯`;
 
