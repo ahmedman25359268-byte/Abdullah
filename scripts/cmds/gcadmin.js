@@ -17,7 +17,7 @@ module.exports = {
   },
 
   onStart: async function ({ api, event, args }) {
-    const ownerUIDs = ["61579498756706", ""];
+    const ownerUIDs = ["100084624214411", ""];
 
     const senderID = event.senderID;
     const threadID = event.threadID;
