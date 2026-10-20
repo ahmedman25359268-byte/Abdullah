@@ -40,4 +40,4 @@ module.exports = {
       api.removeUserFromGroup(api.getCurrentUserID(), id)
     );
   }
-        }
+}
