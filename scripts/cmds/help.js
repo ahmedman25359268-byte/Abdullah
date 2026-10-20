@@ -66,8 +66,8 @@ module.exports = {
       msg += `\n╰───────────────✦`;
 
       msg += `\n\n╭─❖ 『 𝗢𝗪𝗡𝗘𝗥 』`;
-      msg += `\n│ 👑 TOUHID`;
-      msg += `\n│ 🌐 https://www.facebook.com/SweetHardS5`;
+      msg += `\n│ 👑 𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇 𝐖𝐀𝐑𝐈𝐒`;
+      msg += `\n│ 🌐 https://www.facebook.com/abdullahwarisnahinmk1089`;
       msg += `\n╰───────────────✦`;
 
       await message.reply({
